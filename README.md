@@ -600,6 +600,8 @@ Alternatively, the `RavMovesInline` component can be used to display the chess m
 
 See the [contributing guidelines](https://github.com/chesslablab/reactblab/blob/master/CONTRIBUTING.md).
 
+Happy learning and coding!
+
 ### License
 
 [The MIT License](https://github.com/chesslablab/react-chess/blob/master/LICENSE).
